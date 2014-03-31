@@ -141,13 +141,13 @@
 	#banner {
 		position: relative;
 		width: 1160px;
-		height: 265px;
+		height: 350px;
 		margin: 2% 0 2% 0;
 		box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.10);
 		border-radius: 10px;
 		padding: 20px;
 		background: #fff url(images/banner.jpg) no-repeat 20px 20px;
-		background-size: 1160px 265px;
+		background-size: 1160px 350px;
 	}
 
 		#banner h2 {
